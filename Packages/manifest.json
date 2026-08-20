@@ -1,5 +1,15 @@
 {
   "dependencies": {
+
+    "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
+
+    "com.google.external-dependency-manager": "file:FirebasePackages/com.google.external-dependency-manager-1.2.188.tgz",
+    "com.google.firebase.app": "file:FirebasePackages/com.google.firebase.app-13.13.0.tgz",
+    "com.google.firebase.auth": "file:FirebasePackages/com.google.firebase.auth-13.13.0.tgz",
+    "com.google.firebase.firestore": "file:FirebasePackages/com.google.firebase.firestore-13.13.0.tgz",
+    "com.google.firebase.remote-config": "file:FirebasePackages/com.google.firebase.remote-config-13.13.0.tgz",
+    "com.google.firebase.crashlytics": "file:FirebasePackages/com.google.firebase.crashlytics-13.13.0.tgz",
+
     "com.unity.2d.animation": "13.0.5",
     "com.unity.2d.aseprite": "3.0.2",
     "com.unity.2d.psdimporter": "12.0.2",
